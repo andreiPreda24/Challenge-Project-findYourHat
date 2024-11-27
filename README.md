@@ -5,8 +5,8 @@ In this project I've tried to create an interactive terminal mini-game. The sole
 
 ### Symbols and what they represent:
 1. '*' = player / player path
-2. '^' = hat (win condition)
-3. 'O' = hole (loss condition)
+2. '^' = hat
+3. 'O' = hole
 4. '░' = field
 
 ## How to play:
